@@ -9,7 +9,7 @@ Second, I want to use this project as a launching point for learning other skill
 
 Third, I want to get more experience in writing UML diagrams, and the MVC design pattern should offer multiple opportunities to do so.
 
-
+ 
 
 As I go about completing this project, my goal is to provide clear, precise, and consistent documentation. I will be making my UML diagrams using draw.io, a convenient and free flowchart design tool. These diagrams will then be published in the repository. 
 
